@@ -3,8 +3,9 @@ fn greet_world() {
 
     let southern_germany = "Grüß Gott!";         // <2>
     let japan = "ハロー・ワールド";                // <3>
+    let korean = "안녕?";
 
-    let regions = [southern_germany, japan];     // <4>
+    let regions = [southern_germany, japan, korean];     // <4>
 
     for region in regions.iter() {               // <5>
             println!("{}", &region);             // <6>
