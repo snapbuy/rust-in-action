@@ -4,6 +4,7 @@ fn main() {                 // <1> <2>
   Little penguin,33
   Yellow-eyed penguin,65
   Fiordland penguin,60
+  조용로, 18
   Invalid,data
   ";
 
