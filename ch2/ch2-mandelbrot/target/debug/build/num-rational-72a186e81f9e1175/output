@@ -1,0 +1,2 @@
+cargo:rustc-cfg=has_int_exp_fmt
+cargo:rerun-if-changed=/Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-rational-0.3.0/build.rs

@@ -1,4 +1,4 @@
-#[derive(Debug)]    // <1>
+ #[derive(Debug)]    // <1>
 enum Cereal {       // <2>
     Barley, Millet, Rice,
     Rye, Spelt, Wheat,
